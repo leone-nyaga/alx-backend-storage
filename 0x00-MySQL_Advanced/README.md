@@ -145,7 +145,7 @@ Repo:
 
 Write a SQL script that creates a table users following these requirements:
 
-With these attributes:
++ With these attributes:
   + id, integer, never null, auto increment and primary key
   + email, string (255 characters), never null and unique
   + name, string (255 characters)
@@ -196,7 +196,8 @@ Requirements:
 + Import this table dump: [metal_bands.sql.zip](https://savanna.alxafrica.com/rltoken/uPn947gnZLaa0FJrrAFTGQ)
 + Column names must be: origin and nb_fans
 + Your script can be executed on any database
-+ Context: Calculate/compute something is always power intensive… better to distribute the load!
+
+**Context**: Calculate/compute something is always power intensive… better to distribute the load!
 
 ```bash
 bob@dylan:~$ cat metal_bands.sql | mysql -uroot -p holberton
