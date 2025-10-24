@@ -1,6 +1,6 @@
 # 0x02-redis_basic
 
-![Redis is a fancy Hash Table!!](redis_is_fancy_hash_table.png)
+![Redis is a fancy Hash Table!!](https://github.com/leone-nyaga/alx-backend-storage/blob/master/0x02-redis_basic/images/redis_is_fancy_hash_table.png)
 
 # Resources
 
